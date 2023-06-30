@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Dummy_ExportData_CSV_To_SQL_Table", "Dummy_ExportData_CSV_To_SQL_Table\Dummy_ExportData_CSV_To_SQL_Table.dtproj", "{D055C70A-F6A3-496C-80B1-4BA4DD878B70}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MagentaBuiltImportTool", "..\Smarttrack SSIS\Smarttrack SSIS\MagentaBuiltImportTool\MagentaBuiltImportTool.dtproj", "{C79407F3-E26D-4AC5-824C-1889EB5957C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D055C70A-F6A3-496C-80B1-4BA4DD878B70}.Development|Default.ActiveCfg = Development
+		{D055C70A-F6A3-496C-80B1-4BA4DD878B70}.Development|Default.Build.0 = Development
+		{C79407F3-E26D-4AC5-824C-1889EB5957C1}.Development|Default.ActiveCfg = Development
+		{C79407F3-E26D-4AC5-824C-1889EB5957C1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C20815-60CE-46EF-825F-E9F66D847760}
+	EndGlobalSection
+EndGlobal
